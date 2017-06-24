@@ -1,0 +1,206 @@
+
+#search{
+	margin-top: 150px;
+	padding-left: 870px;
+
+}
+#sign{
+	
+	font-size: 15px;
+	font-family: 'Helvetica';
+	color: white;
+	text-decoration: none;
+}
+
+.box1
+{
+	background-color: black;
+	width: auto;
+	height: 190px;
+	margin: 0;
+	padding-left:380px;
+}
+#content{
+	list-style-type: none;
+	line-height: 0px;
+	margin-top: 8px;
+	padding: 0px;
+	height:120px;
+}
+#content li{
+	display: inline;
+
+}
+
+#box2{
+	width: auto;
+	height: 25px;
+	padding-left: 400px;
+	background-color: #999999   ;
+	padding-top: 10px;
+}
+li{
+	width: 130px;
+	height: 20px;
+	padding-left: 10px;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Helvetica';
+	margin: 5px;
+}
+li a{
+	
+	text-decoration: none;
+	font-family: 'Helvetica';
+	font-size: 20px;
+	color: white;
+}
+
+.box3{
+	width: 1370px;
+	background-color: #EEEEEE ;
+	padding-left: 160px;
+	height: 500px;
+	margin-top: 0;
+	padding-top: 0px;
+}
+.box4{
+	width: auto;
+	height: auto;
+}
+.box5{
+	background-color: #EEEEEE;
+	padding-top: 20px;
+	padding-left: 20px;
+	float: left;
+	width: 600px;
+	height: 200px;
+	margin-left: 420px;
+}
+.p{
+	text-decoration: none;
+	font-family: '黑体';
+	font-size: 20px;
+	color: black;
+}
+.box6{
+	float: left;
+	padding-left: 100px;
+	margin-top: 20px;
+	height: 200px;
+}
+.box7{
+
+	width: auto;
+
+	height: 233px;
+}
+.box8{
+	background-color: #EEEEEE;
+	padding-top: 20px;
+	padding-left: 20px;
+	width: 600px;
+	height: 300px;
+	float: left;
+	margin-left: 420px;
+
+}
+.box9{
+	height: 200px;
+	width: 100px;
+	float: left;
+	margin-left: 100px;
+
+}
+#massage{
+	width: 1100px;
+	height: auto;
+	margin-left: 200px;
+	background-color: white;
+}
+#titl{
+	padding-left: 160px;
+	width: 940px;
+	height: auto;
+	border-bottom:thick dotted #999999;
+}
+#news{
+
+	margin-top: 50px;
+	padding-left:160px;
+	padding-right: 160px;
+	width: 790px;
+	height: auto;
+	border-bottom: thick dotted #999999;
+
+
+}
+.new{
+	
+	font-family: '黑体';
+
+	font-size: 20px;
+	line-height: 50px;
+}
+.anido{
+	font-family: '黑体';
+	font-size: 25px;
+	color: red;
+	text-align: center;
+	text-decoration: none;
+}
+#i{
+	width: auto;
+	height: auto;
+	padding-left: 100px;
+}
+#newss{
+	margin-top:30px; 
+	padding-left:260px;
+	padding-right: 160px;
+	width: 790px;
+	height: auto;
+
+
+
+}
+/*list'scss*/
+#massage2{
+	width: 1100px;
+	height: 1500px;
+	margin-left: 200px;
+	background-color: white;
+}
+#message3{
+	width: 600px;
+	height:250px;
+	float: left; 
+}
+#newsss{
+	height: 500px;
+	width: 400px;
+	margin-right: 80px;
+	float: right;
+}
+.p2{
+	text-decoration: none;
+	font-family: '黑体';
+	size: 10px;
+	line-height: 20px;
+	color: black;
+}
+#xbox{
+	float: right;
+	width: auto;
+	height: auto;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+.games{
+
+	margin-top: 20px;
+	margin-left: 70px;
+	width: 200px;
+	height: 350px;
+	float: left;
+}

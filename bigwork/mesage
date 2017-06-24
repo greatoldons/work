@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>message</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="index'scss">
+	<style type="text/css">
+		body
+		{
+		background-color: white;
+		margin: 0;
+	}
+</head>
+<body>
+		<div class="box1">
+		<img src="picture/logo3.png " height="160px" width="800px"/>
+			<div class="search" style="padding-left: 870px"> 
+			<form >
+				<input type="text" name="search" value="search" style="width: 220px " >
+			</form>
+			<a id="sign"  href="#">sign up</a>
+			</div>
+	</div>
+	<div id="box2" >
+		<ul id="content">
+			<li><a href="#">Home       |</a></b></li>
+			<li><a href="#">About E3        |</a></b></li>
+			<li><a href="#">Focus       |</a></b></li>
+			<li><a href="#">FAQ       |</a></b></li>
+			<li><a href="#">Contact        |</a></b></li>
+			<li><a href="£">Services       |</a></b></li>
+		</ul>
+	</div>
+</body>
+</html>
